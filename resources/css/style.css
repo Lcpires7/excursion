@@ -1,0 +1,12 @@
+body {
+	background-color: black;
+}
+
+p, h1, h2, a{
+	text-align: center;
+	color: white;
+}
+
+a {
+	display: block;
+}
